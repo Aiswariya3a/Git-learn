@@ -4,3 +4,5 @@ print(
 
 print("Welcome to Python programming."
 )
+
+print("hi")
